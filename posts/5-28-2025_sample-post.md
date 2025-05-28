@@ -1,5 +1,5 @@
 ---
-title: "Today's Post"
+title: Today's Post
 date: 2025-05-28
 ---
 
